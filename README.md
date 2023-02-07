@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm Alireza Razavi 
-- February 2001 
+- 15 February 2001 
 - Computer engineering 💻 
 - Also a Gamer🎮 
 - Python is in the way..........
