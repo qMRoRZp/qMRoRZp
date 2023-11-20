@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - I'm Alireza Razavi 
 - 15 February 2001 
 - Computer engineering 💻 
-- Also a Gamer🎮 
-- Python is in the way..........
+- 3D designer 💻
+- Also a Gamer🎮
